@@ -1,2 +1,1 @@
-# thislevy1
-1
+This is my project in developing a simple application to track the price of Bitcoin on the Indodax platform, updated every 10 seconds. With this application, it is hoped that users will no longer need to log in to the Indodax platform just to check the current Bitcoin price. I also plan to develop an Android version in the near future. Thank you for visiting.
